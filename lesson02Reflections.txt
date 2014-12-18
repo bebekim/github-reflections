@@ -1,0 +1,8 @@
+Initializing a git repository
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Initialize a git repository to tell computer that you are going to be control versions of this file. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Allows one to control the divvy up commits with logical precision.

@@ -1,0 +1,10 @@
+Comparing two different files using command, ``` diff -u oldfile.txt newfile.txt,``` diff cannot pinpoint which part of text is different from one another. So it's important to keep 80 characters limit so that change is identifiable. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Modular design helps decrease the time spent identifying and fixing bugs. Therefore, people will want to work in modular forms. In that case, it's important that git repositories are maintained to accomodate all modular forms rather than single file. 
+
+Using git log and git diff to view the history of file can be rather daunting. You won't know which keyword you are looking for. 
+
+How might using version control make you more confident to make changes that could break something?
+Keep a checklist close by me and see a list of things that I need to maintain at all times. 	
